@@ -1,0 +1,31 @@
+PODS:
+  - MBProgressHUD (1.0.0)
+  - PromiseKit (4.0.4):
+    - PromiseKit/Foundation (= 4.0.4)
+    - PromiseKit/QuartzCore (= 4.0.4)
+    - PromiseKit/UIKit (= 4.0.4)
+  - PromiseKit/CorePromise (4.0.4)
+  - PromiseKit/Foundation (4.0.4):
+    - PromiseKit/CorePromise
+  - PromiseKit/QuartzCore (4.0.4):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (4.0.4):
+    - PromiseKit/CorePromise
+  - SwiftyUserDefaults (3.0.0)
+  - TradeItIosTicketSDK2 (1.0.4):
+    - MBProgressHUD (~> 1.0.0)
+    - PromiseKit (~> 4.0)
+    - SwiftyUserDefaults (~> 3.0.0)
+
+DEPENDENCIES:
+  - TradeItIosTicketSDK2 (~> 1.0.2)
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  PromiseKit: 8e8ee39d33ff199d92a1a883b5396f6285be6c91
+  SwiftyUserDefaults: 0f1d45fc3aafb9064dac661e367f8f83fe21a4b4
+  TradeItIosTicketSDK2: b351a2c10bc2444916a6a7cc7be6544d55776cc9
+
+PODFILE CHECKSUM: 627957cfc9b9d83ef1adad588f1281b3d04f2708
+
+COCOAPODS: 1.1.1
